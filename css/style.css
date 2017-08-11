@@ -994,6 +994,10 @@ margin-bottom: 5px;
     text-decoration: none;
 }
 
+.team_box ul li a.fa-github:hover {
+    color: #ffffff;
+}
+
 .team_box ul li a.fa-twitter:hover {
     color: #55acee;
 }
